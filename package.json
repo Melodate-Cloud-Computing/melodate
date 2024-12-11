@@ -1,0 +1,26 @@
+{
+  "name": "melodate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dedy Bensin",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/sql": "^0.19.0",
+    "@google-cloud/storage": "^7.14.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5",
+    "uuid": "^11.0.3"
+  }
+}
